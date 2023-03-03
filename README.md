@@ -5,10 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-ruchitha-green)](https://www.ruchitha)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-ruchitha-yellow)](https://stackoverflow.com/users/3687251/ruchitha-)
 
-I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
-
+I'm a Msc Graduate with a master's degree in Computerscience gradauted recently. I'm also working in cognizant as a process executive in mapping project.I have developed an immense interest towards learning and understanding about how the website works.So i decided to start my career as a full stack developer and started my journey towards learning it.
 
 ![Visitor Count](https://profile-counter.glitch.me/ruchithadeveloper/count.svg)
 
