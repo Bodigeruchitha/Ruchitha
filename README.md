@@ -3,7 +3,7 @@
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
 [![Linkedin Badge](https://img.shields.io/badge/-ruchitha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruchitha--01629954/)](https://www.linkedin.com/feed/in/ruchitha--01629954/)
 [![Website Badge](https://img.shields.io/badge/WebSite-ruchitha-green)](https://www.ruchitha)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-ruchitha-yellow)](https://stackoverflow.com//users/3687251/ruchitha-)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-ruchitha-yellow)](https://stackoverflow.com/users/21192828/ruchitha-bodige-)
 
 I'm a Msc Graduate with a master's degree in Computerscience gradauted recently. I'm also working in cognizant as a process executive in mapping project.I have developed an immense interest towards learning and understanding about how the website works.So i decided to start my career as a full stack developer and started my journey towards learning it.
 
