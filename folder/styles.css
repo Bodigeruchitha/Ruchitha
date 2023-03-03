@@ -1,0 +1,60 @@
+div{
+    padding: 100px;
+    } 
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+h1{
+    margin: 0;
+    font-family: 'sacramento',cursive;
+}
+h3{
+    font-family: 'sacramento',cursive;
+}
+h2{
+    font-family: 'sacramento',cursive;
+}
+.intern{
+    text-decoration:underline;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 200px;
+    top: 10px;
+    
+}
+.top-container{
+    background-color:#E4F9F5;  
+    text-align: center;
+
+
+}
+.middle-container
+{ 
+    font-size: small;
+    font-style: normal;
+    padding: 0px;
+    text-align: center;
+
+
+}
+.skill-row{
+padding-top: 0px;
+}
+.hobby-h{
+    padding-top: 0px;
+
+}
+.bottom-container{
+    background-color: #EDF1D6;
+    padding: 0PX;
+    text-align: center;
+
+   
+}
+.Contact-me{
+    padding: 0;
+}
+
+
